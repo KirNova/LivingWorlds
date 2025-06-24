@@ -1,0 +1,22 @@
+{
+    "name": "Tharam",
+    "age": 31,
+    "profession": "Hunter",
+    "mood": "tired",
+    "relationships": {
+        "Mira": 68,
+        "Player": 42
+    },
+    "memories": [
+        "2025-06-15: Rejected by Mira",
+        "2025-06-16: Saw wolf tracks near forest",
+        "2025-06-18: Missed his son's birthday"
+    ],
+    "goals": [
+        "Improve hunting skills",
+        "Make peace with Mira",
+        "Rebuild his father's cabin"
+    ],
+    "state": "resting",
+    "next_event": "2025-06-25: Go to town to buy supplies"
+}
